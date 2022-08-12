@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "iot-catalog-ui": "apps/iot-catalog-ui",
+    "iot-catalog-ui-e2e": "apps/iot-catalog-ui-e2e"
+  }
+}
